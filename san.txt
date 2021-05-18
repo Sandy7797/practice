@@ -1,4 +1,6 @@
 hello 
+hallo
+hi
+bye
 
-I love Sandhya Shree very much, but Sandhya Shree hates me.
 
