@@ -1,0 +1,5 @@
+#ignore file of this type .doc and .docx
+*.doc
+*.docx
+*.png
+/SRC
